@@ -1,0 +1,4 @@
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\svn\MessagingKit\MessagingKit\bin\Debug\MessagingKit.dll
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\svn\MessagingKit\MessagingKit\bin\Debug\MessagingKit.pdb
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\svn\MessagingKit\MessagingKit\obj\Debug\MessagingKit.dll
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\svn\MessagingKit\MessagingKit\obj\Debug\MessagingKit.pdb
